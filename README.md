@@ -1,19 +1,20 @@
 <h1 align="center">Hi, I'm Lee La Hee 👋</h1>
  
 <p align="center">
-  <b>Computer Science Graduate &nbsp;|&nbsp; Network Infrastructure &nbsp;|&nbsp; Cloud & Systems Administration</b>
+  <b>IT Professional &nbsp;|&nbsp; Network Infrastructure &nbsp;|&nbsp; Cloud & Systems Administration &nbsp;|&nbsp; Software Developer</b>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="mailto:YOUR-EMAIL">Email</a>
+  <a href="mailto:laheelee2001@gmail.com">Email</a>
 </p>
 ---
  
 ## 👨‍💻 About Me
  
-I'm a Computer Science graduate based in Trinidad, focused on network infrastructure, systems administration, and cloud integration. I enjoy building practical solutions to real business problems and documenting my work thoroughly.
+I’m an IT and software professional with a degree in Computer Science. I am focused on building practical, well-documented solutions to everyday business problems, whether that means configuring network infrastructure, managing systems, or developing software.
+
+My background is a mix of technical troubleshooting and client-facing work. Due to my experience in sales and client communication, I see the value technology brings to a company. I genuinely enjoy bridging that gap, making sure that the technical architecture I build actually aligns with what the business and its clients' need to succeed.
  
-I recently completed a full small business network infrastructure project covering multi-VLAN design, routing, security, DHCP, DNS, NAT, SSH management, and redundant switching — simulating a real paper-to-digital business migration.
+I recently completed a full small business network infrastructure project covering multi-VLAN design, routing, security, DHCP, DNS, NAT, SSH management, and redundant switching, simulating a real paper-to-digital business migration. 
  
 ---
  
@@ -21,11 +22,11 @@ I recently completed a full small business network infrastructure project coveri
  
 | Category | Skills |
 |---|---|
-| **Networking** | VLANs, Inter-VLAN Routing, Trunking (802.1Q), DHCP, DNS, NAT, ACLs, STP, SSH |
+| **Networking** | VLANs, Inter-VLAN Routing, Trunking (802.1Q), DHCP, DNS, NAT, ACLs, STP, SSH, IPv4, IPv6 |
 | **Cisco** | IOS CLI, Catalyst 2960, Router on a Stick, Packet Tracer |
-| **Cloud** | AWS (EC2, S3, RDS, VPC, IAM) |
-| **Programming** | Python, SQL, Oracle DB |
-| **Tools** | GitHub, Linux CLI |
+| **Cloud** | Amazon Web Services (EC2, S3, RDS, VPC, IAM), Google Cloud |
+| **Programming** | Python, SQL, Oracle DB, JAVA, HTML, CSS, Javascript |
+| **Tools** | GitHub |
  
 ---
  
@@ -42,24 +43,24 @@ I recently completed a full small business network infrastructure project coveri
 - SSH remote management on all network devices
 - Redundant switching with Spanning Tree Protocol
 - Mirrors real AWS VPC architecture — public/private subnets, security groups, NAT Gateway
-**Tools:** Cisco Packet Tracer, Cisco IOS, 802.1Q, DHCP, DNS, ACLs, NAT, STP, SSH
+**Tools:** Cisco Packet Tracer, Cisco IOS, 802.1Q, DHCP, DNS, ACLs, NAT, STP, SSH, IPv4
  
 ---
  
 ### 📄 [PDF to Word Converter](https://github.com/walestar/YOUR-REPO-NAME)
 > Python program that extracts text content from PDF files and converts it to a Word document.
  
-**Tools:** Python
+**Tools:** Python, Microsoft Word
  
 ---
  
 ## 📚 Currently Learning
  
 - AWS Cloud Practitioner certification prep
-- Linux administration
+- CompTia Security+
 - Expanding into cloud-integrated network infrastructure
 ---
  
 <p align="center">
-  <i>Open to junior network administration, systems administration, and IT infrastructure roles.</i>
+  <i>Open to junior network administration, systems/office administration, IT infrastructure and software developer roles.</i>
 </p>
