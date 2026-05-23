@@ -4,8 +4,7 @@
   <b>IT Professional &nbsp;|&nbsp; Network Infrastructure &nbsp;|&nbsp; Cloud & Systems Administration &nbsp;|&nbsp; Software Developer</b>
 </p>
 <p align="center">
-  <b>Contact Number: 1(868)468-7116 &nbsp;</b>
-  <a href="mailto:laheelee2001@gmail.com">Email</a>
+  <b>Contact Number: 1(868)468-7116 &nbsp;|&nbsp; Email: laheelee2001@gmail.com</b>
 </p>
 ---
  
