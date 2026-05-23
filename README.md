@@ -4,6 +4,7 @@
   <b>IT Professional &nbsp;|&nbsp; Network Infrastructure &nbsp;|&nbsp; Cloud & Systems Administration &nbsp;|&nbsp; Software Developer</b>
 </p>
 <p align="center">
+  <b>1(868)468-7116</b>
   <a href="mailto:laheelee2001@gmail.com">Email</a>
 </p>
 ---
@@ -47,7 +48,7 @@ I recently completed a full small business network infrastructure project coveri
  
 ---
  
-### 📄 [PDF to Word Converter](https://github.com/walestar/YOUR-REPO-NAME)
+### 📄 [PDF to Word Converter](https://github.com/walestar/Python-Converter)
 > Python program that extracts text content from PDF files and converts it to a Word document.
  
 **Tools:** Python, Microsoft Word
