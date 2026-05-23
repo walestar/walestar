@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lee La Hee 👋</h1>
  
 <p align="center">
-  <b>IT Professional &nbsp;|&nbsp; Network Infrastructure &nbsp;|&nbsp; Cloud & Systems Administration &nbsp;|&nbsp; Software Developer</b>
+  <b>IT Professional &nbsp;|&nbsp; Network Infrastructure &nbsp;|&nbsp; Cloud & Systems Administration
 </p>
 <p align="center">
   <b>Contact Number: 1(868)468-7116 &nbsp;|&nbsp; Email: laheelee2001@gmail.com</b>
