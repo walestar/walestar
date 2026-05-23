@@ -14,7 +14,7 @@ I’m an IT and software professional with a degree in Computer Science. I am fo
 
 My background is a mix of technical troubleshooting and client-facing work. Due to my experience in sales and client communication, I see the value technology brings to a company. I genuinely enjoy bridging that gap, making sure that the technical architecture I build actually aligns with what the business and its clients' need to succeed.
  
-I recently completed a full small business network infrastructure project covering multi-VLAN design, routing, security, DHCP, DNS, NAT, SSH management, and redundant switching, simulating a real paper-to-digital business migration. 
+I have completed a full small business network infrastructure project covering multi-VLAN design, routing, security, DHCP, DNS, NAT, SSH management, and redundant switching, simulating a real paper-to-digital business migration. 
  
 ---
  
@@ -54,9 +54,9 @@ I recently completed a full small business network infrastructure project coveri
  
 ---
  
-## 📚 Currently Learning
+## 📚 Currently Pursuing 
  
-- AWS Cloud Practitioner certification prep
+- AWS Cloud
 - CompTia Security+
 - Expanding into cloud-integrated network infrastructure
 ---
