@@ -32,7 +32,7 @@ I recently completed a full small business network infrastructure project coveri
  
 ## 🗂️ Projects
  
-### 🔒 [TrinTech Solutions — Network Infrastructure Project](https://github.com/walestar/trintech-network-infrastructure)
+### 🔒 [TrinTech Solutions — Network Infrastructure Project](https://github.com/walestar/Network-Infrastructure)
 > Designed and implemented a complete multi-VLAN network infrastructure simulating a small business migration from paper to digital operations.
  
 - 5 VLANs separating staff, servers, DMZ, guest, and management traffic
